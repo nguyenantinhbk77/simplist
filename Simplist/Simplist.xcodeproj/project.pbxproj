@@ -11,6 +11,21 @@
 		19DEC3432C1CB404001DADC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3422C1CB404001DADC4 /* ContentView.swift */; };
 		19DEC3452C1CB404001DADC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19DEC3442C1CB404001DADC4 /* Assets.xcassets */; };
 		19DEC3482C1CB404001DADC4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19DEC3472C1CB404001DADC4 /* Preview Assets.xcassets */; };
+		19DEC3522C1CB61F001DADC4 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3512C1CB61F001DADC4 /* User.swift */; };
+		19DEC3552C1CB641001DADC4 /* Organization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3542C1CB641001DADC4 /* Organization.swift */; };
+		19DEC3632C1CB66D001DADC4 /* Breed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3572C1CB66C001DADC4 /* Breed.swift */; };
+		19DEC3642C1CB66D001DADC4 /* AdoptionStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3582C1CB66C001DADC4 /* AdoptionStatus.swift */; };
+		19DEC3652C1CB66D001DADC4 /* AnimalEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3592C1CB66D001DADC4 /* AnimalEnvironment.swift */; };
+		19DEC3662C1CB66D001DADC4 /* Age.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35A2C1CB66D001DADC4 /* Age.swift */; };
+		19DEC3672C1CB66D001DADC4 /* Coat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35B2C1CB66D001DADC4 /* Coat.swift */; };
+		19DEC3682C1CB66D001DADC4 /* Gender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35C2C1CB66D001DADC4 /* Gender.swift */; };
+		19DEC3692C1CB66D001DADC4 /* APIColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35D2C1CB66D001DADC4 /* APIColors.swift */; };
+		19DEC36A2C1CB66D001DADC4 /* PhotoSizes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35E2C1CB66D001DADC4 /* PhotoSizes.swift */; };
+		19DEC36B2C1CB66D001DADC4 /* VideoLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC35F2C1CB66D001DADC4 /* VideoLink.swift */; };
+		19DEC36C2C1CB66D001DADC4 /* Pagination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3602C1CB66D001DADC4 /* Pagination.swift */; };
+		19DEC36D2C1CB66D001DADC4 /* AnimalAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3612C1CB66D001DADC4 /* AnimalAttributes.swift */; };
+		19DEC36E2C1CB66D001DADC4 /* Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3622C1CB66D001DADC4 /* Size.swift */; };
+		19DEC3712C1CB6BB001DADC4 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DEC3702C1CB6BB001DADC4 /* Detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		19DEC3422C1CB404001DADC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		19DEC3442C1CB404001DADC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		19DEC3472C1CB404001DADC4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		19DEC3512C1CB61F001DADC4 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		19DEC3542C1CB641001DADC4 /* Organization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Organization.swift; sourceTree = "<group>"; };
+		19DEC3572C1CB66C001DADC4 /* Breed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Breed.swift; sourceTree = "<group>"; };
+		19DEC3582C1CB66C001DADC4 /* AdoptionStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdoptionStatus.swift; sourceTree = "<group>"; };
+		19DEC3592C1CB66D001DADC4 /* AnimalEnvironment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalEnvironment.swift; sourceTree = "<group>"; };
+		19DEC35A2C1CB66D001DADC4 /* Age.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Age.swift; sourceTree = "<group>"; };
+		19DEC35B2C1CB66D001DADC4 /* Coat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coat.swift; sourceTree = "<group>"; };
+		19DEC35C2C1CB66D001DADC4 /* Gender.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gender.swift; sourceTree = "<group>"; };
+		19DEC35D2C1CB66D001DADC4 /* APIColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIColors.swift; sourceTree = "<group>"; };
+		19DEC35E2C1CB66D001DADC4 /* PhotoSizes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoSizes.swift; sourceTree = "<group>"; };
+		19DEC35F2C1CB66D001DADC4 /* VideoLink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoLink.swift; sourceTree = "<group>"; };
+		19DEC3602C1CB66D001DADC4 /* Pagination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pagination.swift; sourceTree = "<group>"; };
+		19DEC3612C1CB66D001DADC4 /* AnimalAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalAttributes.swift; sourceTree = "<group>"; };
+		19DEC3622C1CB66D001DADC4 /* Size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Size.swift; sourceTree = "<group>"; };
+		19DEC3702C1CB6BB001DADC4 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +81,7 @@
 		19DEC33F2C1CB404001DADC4 /* Simplist */ = {
 			isa = PBXGroup;
 			children = (
+				19DEC34E2C1CB5F6001DADC4 /* Domain */,
 				19DEC3402C1CB404001DADC4 /* SimplistApp.swift */,
 				19DEC3422C1CB404001DADC4 /* ContentView.swift */,
 				19DEC3442C1CB404001DADC4 /* Assets.xcassets */,
@@ -65,6 +96,68 @@
 				19DEC3472C1CB404001DADC4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		19DEC34E2C1CB5F6001DADC4 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC34F2C1CB601001DADC4 /* Model */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		19DEC34F2C1CB601001DADC4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC3562C1CB657001DADC4 /* Animal */,
+				19DEC3532C1CB63A001DADC4 /* Organization */,
+				19DEC3502C1CB60B001DADC4 /* User */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		19DEC3502C1CB60B001DADC4 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC3512C1CB61F001DADC4 /* User.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		19DEC3532C1CB63A001DADC4 /* Organization */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC3542C1CB641001DADC4 /* Organization.swift */,
+			);
+			path = Organization;
+			sourceTree = "<group>";
+		};
+		19DEC3562C1CB657001DADC4 /* Animal */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC36F2C1CB6AD001DADC4 /* Detail */,
+				19DEC35A2C1CB66D001DADC4 /* Age.swift */,
+				19DEC3572C1CB66C001DADC4 /* Breed.swift */,
+				19DEC35B2C1CB66D001DADC4 /* Coat.swift */,
+				19DEC3582C1CB66C001DADC4 /* AdoptionStatus.swift */,
+				19DEC3612C1CB66D001DADC4 /* AnimalAttributes.swift */,
+				19DEC3592C1CB66D001DADC4 /* AnimalEnvironment.swift */,
+				19DEC35D2C1CB66D001DADC4 /* APIColors.swift */,
+				19DEC35C2C1CB66D001DADC4 /* Gender.swift */,
+				19DEC3602C1CB66D001DADC4 /* Pagination.swift */,
+				19DEC35E2C1CB66D001DADC4 /* PhotoSizes.swift */,
+				19DEC3622C1CB66D001DADC4 /* Size.swift */,
+				19DEC35F2C1CB66D001DADC4 /* VideoLink.swift */,
+			);
+			path = Animal;
+			sourceTree = "<group>";
+		};
+		19DEC36F2C1CB6AD001DADC4 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				19DEC3702C1CB6BB001DADC4 /* Detail.swift */,
+			);
+			path = Detail;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +230,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19DEC36E2C1CB66D001DADC4 /* Size.swift in Sources */,
 				19DEC3432C1CB404001DADC4 /* ContentView.swift in Sources */,
+				19DEC36D2C1CB66D001DADC4 /* AnimalAttributes.swift in Sources */,
+				19DEC3712C1CB6BB001DADC4 /* Detail.swift in Sources */,
+				19DEC3662C1CB66D001DADC4 /* Age.swift in Sources */,
 				19DEC3412C1CB404001DADC4 /* SimplistApp.swift in Sources */,
+				19DEC36C2C1CB66D001DADC4 /* Pagination.swift in Sources */,
+				19DEC36A2C1CB66D001DADC4 /* PhotoSizes.swift in Sources */,
+				19DEC3652C1CB66D001DADC4 /* AnimalEnvironment.swift in Sources */,
+				19DEC3692C1CB66D001DADC4 /* APIColors.swift in Sources */,
+				19DEC3552C1CB641001DADC4 /* Organization.swift in Sources */,
+				19DEC3642C1CB66D001DADC4 /* AdoptionStatus.swift in Sources */,
+				19DEC3682C1CB66D001DADC4 /* Gender.swift in Sources */,
+				19DEC3632C1CB66D001DADC4 /* Breed.swift in Sources */,
+				19DEC36B2C1CB66D001DADC4 /* VideoLink.swift in Sources */,
+				19DEC3672C1CB66D001DADC4 /* Coat.swift in Sources */,
+				19DEC3522C1CB61F001DADC4 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
